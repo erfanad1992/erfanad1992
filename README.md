@@ -14,9 +14,6 @@
     <a href="https://visualstudio.microsoft.com/" rel="nofollow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40" style="max-width: 100%;"> 
     </a>
-    <a href="https://en.wikipedia.org/wiki/Command_Query_Responsibility_Segregation" rel="nofollow"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cqrs/cqrs-original.svg" alt="cqrs" width="40" height="40" style="max-width: 100%;"> 
-    </a>
     <a href="https://www.mongodb.com/" rel="nofollow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;"> 
     </a>
@@ -32,15 +29,8 @@
     <a href="https://redis.io/" rel="nofollow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" style="max-width: 100%;"> 
     </a>
-    <a href="https://restfulapi.net/" rel="nofollow"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/restapi/restapi-original.svg" alt="restapi" width="40" height="40" style="max-width: 100%;"> 
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Domain-driven_design" rel="nofollow"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/domain-driven-design/domain-driven-design-original.svg" alt="ddd" width="40" height="40" style="max-width: 100%;"> 
-    </a>
-    <a href="https://microservices.io/" rel="nofollow"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microservices/microservices-original.svg" alt="microservices" width="40" height="40" style="max-width: 100%;"> 
-    </a>
+
+
 </p>
 
 ---
