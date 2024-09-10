@@ -7,8 +7,7 @@
 🔗 **LinkedIn:** [Erfan Darvishniya](https://www.linkedin.com/in/erfan-darvishniya-2a7146217/)  
 💻 **GitHub:** [erfanad1371](https://github.com/erfanad1371)
 
- ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) 
-  ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
+![C#](https://img.shields.io/badge/C%23-700%20-%2354CC0A)
 
 ---
 
