@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Erfan Darvishniya
 
-**Software Developer | Full-Stack Web Developer**
+**Software Developer | Asp.Net Developer**
 
 📍 **Location:** Tehran, Iran  
 📧 **Email:** erfanad1371@gmail.com  
