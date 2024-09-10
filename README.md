@@ -50,7 +50,7 @@ I am a dedicated and results-oriented Software Developer with over 7 years of ex
 
 - **[Open Source Contribution]:** Contributed to Open Source Project Name by adding new features and optimizing performance, demonstrating strong collaboration and coding skills in the community.
 
-- **[Certifications]:** Certified Microsoft MCSA and Cisco CCNA Routing and Switching, showcasing expertise in networking and server management. [Optional: link to certificates].
+- **[Certifications]:** Certified Microsoft MCSA and Cisco CCNA Routing and Switching, showcasing expertise in networking and server management.
 
 - **[Q-Commerce Platform Development]:** As a backend developer at TapsiShop, contributed to a q-commerce platform with over 100,000 users, implementing various admin panel modules and enhancing the system's scalability.
 
@@ -95,7 +95,3 @@ I am a dedicated and results-oriented Software Developer with over 7 years of ex
 ---
 
 **Thank you for visiting my profile!** 😊
-
-
-
-
