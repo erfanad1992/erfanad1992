@@ -63,14 +63,8 @@ I am a dedicated and results-oriented Software Developer with over 7 years of ex
 
   ## 🛠️ Skills
 
-- **Languages:** C#, PHP , JAVA , JAVASCRIPT, TSQL
-- **Frontend:** HTML, CSS, Bootstrap, Razor Views
-- **Backend:** ASP.NET Core, Microservices, RESTful APIs, GRPC
-- **Architectures & Patterns:** Clean Architecture, Onion Architecture, CQRS, Domain-Driven Design, MediatR
-- **Databases:** SQL Server, MongoDB, Redis, T-SQL
-- **Tools & Platforms:** Git, GitHub, ELK Stack, IdentityServer 4/6
-- **Other Technologies:** SEO, Unit Testing, CMS (WordPress, Joomla) , ...
-- **Network Skills:** Cisco CCNA, TCP/IP, Infrastructure Management
+ C#, PHP , JAVA , JAVASCRIPT, TSQL ,  HTML, CSS, Bootstrap, Razor Views ,  ASP.NET Core, Microservices, RESTful APIs, GRPC ,  Clean Architecture, Onion Architecture, CQRS, Domain-Driven Design, MediatR ,
+ SQL Server, MongoDB, Redis, T-SQL ,  Git, GitHub, ELK Stack, IdentityServer 4/6 ,  SEO, Unit Testing, CMS (WordPress, Joomla) ,  Cisco CCNA, TCP/IP, Infrastructure Management
 
 ---
 
