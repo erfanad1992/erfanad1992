@@ -7,7 +7,20 @@
 🔗 **LinkedIn:** [Erfan Darvishniya](https://www.linkedin.com/in/erfan-darvishniya-2a7146217/)  
 💻 **GitHub:** [erfanad1371](https://github.com/erfanad1371)
 
-<a href="https://aws.amazon.com/amplify/" rel="nofollow"> <img src="https://camo.githubusercontent.com/429b0f5607d049255639764abb113a226835c12c17efd5f6c295bc7f797ef142/68747470733a2f2f646f63732e616d706c6966792e6177732f6173736574732f6c6f676f2d6461726b2e737667" alt="amplify" width="40" height="40" data-canonical-src="https://docs.amplify.aws/assets/logo-dark.svg" style="max-width: 100%;"> </a>
+<p align="left" dir="auto"> 
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> 
+    </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/" rel="nofollow"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wpf/wpf-original.svg" alt="wpf" width="40" height="40" style="max-width: 100%;"> 
+    </a>
+    <a href="https://material.io/" rel="nofollow"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialdesign/materialdesign-original.svg" alt="materialdesign" width="40" height="40" style="max-width: 100%;"> 
+    </a>
+    <a href="https://wordpress.org/" rel="nofollow"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40" style="max-width: 100%;"> 
+    </a>
+</p>
 
 ---
 
