@@ -7,7 +7,7 @@
 🔗 **LinkedIn:** [Erfan Darvishniya](https://www.linkedin.com/in/erfan-darvishniya-2a7146217/)  
 💻 **GitHub:** [erfanad1371](https://github.com/erfanad1371)
 
-![C#](https://img.shields.io/badge/C%23-700%20-%2354CC0A)
+<a href="https://aws.amazon.com/amplify/" rel="nofollow"> <img src="https://camo.githubusercontent.com/429b0f5607d049255639764abb113a226835c12c17efd5f6c295bc7f797ef142/68747470733a2f2f646f63732e616d706c6966792e6177732f6173736574732f6c6f676f2d6461726b2e737667" alt="amplify" width="40" height="40" data-canonical-src="https://docs.amplify.aws/assets/logo-dark.svg" style="max-width: 100%;"> </a>
 
 ---
 
